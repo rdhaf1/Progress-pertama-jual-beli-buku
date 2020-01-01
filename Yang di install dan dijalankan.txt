@@ -1,0 +1,3 @@
+install npm, install yarn
+
+jalankan npm, jalankan yarn
